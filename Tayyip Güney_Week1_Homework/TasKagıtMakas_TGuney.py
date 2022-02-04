@@ -1,5 +1,14 @@
-# WEEK-1 Taş-Kağıt-Makas Oyunu
-# Tayyip Güney
+"""
+Tayyip GÜNEY - 02.02.2022
+Program : Stone-Paper-Scissor Game
+
+Rock = Taş
+Paper = Kağıt
+Scissors = Makas
+Rock beats scissors, paper beats rock, and scissors beats paper. 
+That is, if one player selects rock and the other selects paper then the latter player wins, and so on. 
+If two players choose the same item then the round is a tie.
+"""
 
 from random import randint
 print("""  
