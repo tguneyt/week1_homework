@@ -1,6 +1,8 @@
 """
 Tayyip GÜNEY - 04.02.2022
+
 Lesson Success Calculator
+
 Name, Surname, Student Number, 4 course names, Midterm and Final grades 
 of these courses will be requested from the user. 
 The sum of 40% of the midterm grade and 60% of the final grade will give the year-end average. 
