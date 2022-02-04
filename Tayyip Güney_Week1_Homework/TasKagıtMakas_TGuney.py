@@ -1,5 +1,6 @@
 """
 Tayyip GÜNEY - 02.02.2022
+
 Program : Stone-Paper-Scissor Game
 
 Rock = Taş
