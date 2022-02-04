@@ -1,5 +1,15 @@
-# WEEK-1 Beden Kitle Endeksi Hesaplama
-# Tayyip Güney
+"""
+Tayyip GÜNEY - 02.02.2022
+
+Program : Body Mass Index
+
+The program takes the name, surname, weight and height. And it gives Body Mass Index and Classify of BMI.
+Take the weight and height from the user and write a warning as Underweight 
+if the index<25; normal 
+25=< the index < 30; overweight
+30=< the index <40 obese
+>40, extreme fat
+"""
 
 print("\nBEDEN KİTLE İNDEKSİ HESAPLAMA")
 while True:
