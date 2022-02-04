@@ -1,5 +1,15 @@
-# WEEK-1 Yılsonu Not Hesaplama
-# Tayyip Güney
+"""
+Tayyip GÜNEY - 02.02.2022
+
+Lesson Success Calculator
+
+Name, Surname, Student Number, 4 course names, Midterm and Final grades 
+of these courses will be requested from the user. 
+The sum of 40% of the midterm grade and 60% of the final grade will give the year-end average. 
+If the average is less than 50, “FAILED” will be displayed on the screen, 
+and if 50 and above, “PASSED” will be displayed on the screen. 
+This printing process will be done in 4 lessons and the lessons will be printed one after the other.
+"""
 
 print("YILSONU BAŞARISI HESAPLAMA\n")
 kullanici_ad = input("İsim Giriniz : ")
